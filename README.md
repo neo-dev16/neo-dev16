@@ -10,7 +10,7 @@ Desenvolvedor Mobile e Ex-fuzileiro Naval.
 - Flutter 
 - Git
 
-<h4>Trabalhado e aprimorando os conhecimentos em Flutter</h4>
+<h4>Trabalhando e aprimorando os conhecimentos em Flutter</h4>
 
 <h3 align="left">Fale comigo:</h3>
 <p align="left">
